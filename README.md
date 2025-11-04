@@ -1,7 +1,9 @@
 # git-flow
-练习git-flow的流程
 
+练习 git-flow 的流程
 
 ## main
 
-主分支相当于master
+主分支相当于 master
+
+## rebase
